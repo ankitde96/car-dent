@@ -9,4 +9,4 @@ pandas==0.20.2
 scipy==0.19.1
 tensorflow
 tflearn==0.3.2
-Werkzeug==0.12.2
+Werkzeug==0.15.5
